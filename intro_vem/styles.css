@@ -1,0 +1,43 @@
+html {
+    background-color: #90e0ef;
+}
+
+header {
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #03045e;
+}
+
+h1  {
+    margin: 0px;
+    padding: 0px;
+    font-family: "bitcount-mono-single-square", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #00b4d8;
+    text-align: center;
+}
+
+.same_format {
+    font-family: "bitcount-mono-single-square", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header p {
+    margin-top: 10px;
+    padding: 0px;
+    color: #CAF0F8;
+}
+
+#first_p {
+    margin-top: 100px;
+    font-size: 25px;
+}
