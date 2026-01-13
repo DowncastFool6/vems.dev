@@ -1,0 +1,1 @@
+word_list = ["python", "keyboard", "hangman", "mouse", "ide"]
